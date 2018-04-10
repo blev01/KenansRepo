@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="mizzou" style="color: blue">
+        Howdy!
+    </h1>
+    <h2>
+        I'm trying to code on the web!
+    </h2>
+</body>
